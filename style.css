@@ -1,0 +1,38 @@
+h1{
+  color: brown;
+}
+
+h1:hover{
+  color: cadetblue;
+}
+
+p{
+  background-color: rgba(161, 158, 147, 0.825);
+  color: coral;
+}
+
+p:hover{
+  color: black;
+}
+
+
+h1{
+  opacity: 1;
+}
+
+body{
+  width: 100%;
+  height: 100vh;
+  background-color: rgb(240,240,240);
+  background-image: url("https://www.alamy.com/robert-downey-jr-iron-man-2008-image484851179.html?imageid=093749CF-422F-4D74-9A71-7F7495E49C96&p=1914783&pn=1&searchId=c26d5f4653c496d2ac2921faebbffabb&searchtype=0");
+  
+}
+.hero-section{
+  color: blue;
+  ;
+}
+p{
+  color: currentColor;
+}
+
+
